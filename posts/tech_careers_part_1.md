@@ -1,3 +1,10 @@
+---
+title: "Tech Careers Part 1"
+date: "May 21, 2022"
+description: "put the og description here"
+image: "/images/placeholder0.webp"
+---
+
 # Tech Careers: Part 1
 
 Whether you are learning your first programming language or have been coding since you were six years old, tech provides a wide range of career paths to pursue. This article, which is the first one in an eight part series, can cover a small percentage of tech careers and tech-adjacent careers, provides an introduction to some tech careers that combine other interests.
