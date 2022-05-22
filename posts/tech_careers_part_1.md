@@ -1,7 +1,7 @@
 ---
 title: "Tech Careers Part 1"
 date: "May 21, 2022"
-description: "put the og description here"
+description: "An exploration of popular tech careers and how to decide"
 image: "/images/placeholder0.webp"
 ---
 
