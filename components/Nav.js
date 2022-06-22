@@ -5,15 +5,15 @@ import Image from "next/image";
 
 const links = [
   { label: "About", href: "/about" },
-  { label: "Find a Speaker", href: "/" },
-  { label: "Get a Mentor", href: "/" },
+  { label: "Find a Mentor", href: "/connect" },
+  { label: "Get Involved", href: "/join" },
 ];
 
 export default function Nav() {
   const { theme, setTheme } = useTheme();
   return (
     <nav className=" dark:text-white">
-      <ul className="flex flex-wrap items-center justify-between p-2 md:p-4 sm:p-8 mt-0">
+      <ul className="w-screen flex items-center justify-between p-2 md:p-4 sm:p-8 mt-0 w-full md:px-20">
         <Link href="/" passHref>
           <li className="left-0 cursor-pointer">
             {theme === "dark" ? (

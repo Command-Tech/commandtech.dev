@@ -69,14 +69,8 @@ export default function Footer() {
             <li>
               <Link href="/about">About us</Link>
             </li>
-            {/* <li>
+            <li>
               <Link href="/blog">Blog</Link>
-            </li> */}
-            <li>
-              <Link href="/team">Team</Link>
-            </li>
-            <li>
-              <Link href="/advisors">Advisors</Link>
             </li>
             <li>
               <Link href="/press">Press Kit</Link>
@@ -87,14 +81,7 @@ export default function Footer() {
           <ul className="space-y-2">
             <strong>Get Involved</strong>
             <li>
-              <Link href="/clubs">Clubs</Link>
-            </li>
-            <li>
               <Link href="/connect">Command Connect</Link>
-            </li>
-
-            <li>
-              <Link href="/">Partnerships</Link>
             </li>
             <li>
               <a
@@ -106,7 +93,7 @@ export default function Footer() {
               </a>
             </li>
             <li>
-              <Link href="/discord">Discord Community</Link>
+              <Link href="https://discord.gg/aec6UPFW22" target="_blank" rel="noreferrer">Discord Community</Link>
             </li>
           </ul>
         </div>

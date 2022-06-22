@@ -16,6 +16,7 @@ export default function Team() {
           you need here :) Please let us know if you use any information from
           this site!
         </p>
+        <br />
         <h2 className="pt-8 font-semibold subheadline font-montserrat">
           About
         </h2>
@@ -58,17 +59,17 @@ export default function Team() {
         </h2>
         <div className="grid grid-cols-2 gap-5 mx-auto md:grid-cols-4">
           <Image src="/logos/square-white.png" width={200} height={200} />
-          <Image src="/logos/square-white.png" width={200} height={200} />
-          <Image src="/logos/square-white.png" width={200} height={200} />
-          <Image src="/logos/square-white.png" width={200} height={200} />
+          <Image src="/logos/square-blue.png" width={200} height={200} />
+          <Image src="/logos/circle-blue.png" width={200} height={200} />
+          <Image src="/logos/circle.png" width={200} height={200} />
         </div>
 
-        <h2 className="pt-16 font-semibold subheadline font-montserrat">
+        {/* <h2 className="pt-16 font-semibold subheadline font-montserrat">
           Photos
         </h2>
         <div>
           <p>yeah photos</p>
-        </div>
+        </div> */}
       </main>
       <Footer />
     </div>
