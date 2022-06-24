@@ -45,7 +45,7 @@ export default function Team() {
             communities without access to computer science classes, our
             mentorship program focuses on uplifting female and non-binary
             students while our events aim to expand the tech community and
-            accessible resources. We have directly impacted more than 200 people
+            accessible resources. We have directly impacted more than 400 people
             in 14+ countries.
           </Description>
         </div>
