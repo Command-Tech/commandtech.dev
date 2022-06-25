@@ -11,7 +11,7 @@ import Footer from "../../components/Footer";
 export default function BlogIndex({ posts }) {
   return (
     <div className="flex flex-col items-center min-h-screen text-navy dark:text-white dark:bg-navy">
-      <Meta title="Home" />
+      <Meta title="Blog" />
       <Nav />
 
       <div className="container mb-16">
