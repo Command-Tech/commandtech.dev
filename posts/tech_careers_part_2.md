@@ -6,7 +6,8 @@ image: "/images/placeholder1.webp"
 ---
 
 # Tech Careers: Part 2
-_[By Hana Gabrielle Bidon](https://medium.com/@hanagabrielle/about)_
+_By [Hana Gabrielle Bidon](https://medium.com/@hanagabrielle/about)_
+
 Tech careers offer people opportunities to work in various industries, such as business, finance, healthcare, and much more. Additionally, careers in tech can be pursued in several work environments from large tech corporations like Facebook and Google and consulting firms, such as Accenture and Deloitte. In the first article of the series about different careers in technology, I discussed some of the most popular tech career paths, including data science, product management, and software engineering. However, there are more careers that I left out in the first article. This article, which is the second part in this series, covers three more popular tech careers and tech-adjacent careers.
 
 In this article, I am discussing three more tech careers and tech-adjacent careers:
