@@ -13,7 +13,6 @@ export default function Home() {
     <div className="flex flex-col items-center min-h-screen text-navy dark:text-white dark:bg-navy">
       <Meta title="Home" />
       <Nav />
-
       <Hero />
       <main className="container">
         <div className="py-4 lead" />
@@ -24,19 +23,19 @@ export default function Home() {
         <section>
           <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
             <InfoCard
-              destination="http://bit.ly/ct-resource"
+              destination="https://learn.commandtech.dev"
               heading="Learn a new skill"
               copy="Want to further your skills or discover something new? Our team, with the help of the community, has compiled a resource guide for tech, design, and productivity!"
-            />
-            <InfoCard
-              destination="/"
-              heading="Find the perfect speaker, workshop host, judge "
-              copy="We have a network of tech professionals that are enthusiastic about helping the next generation of female and nonbinary tech students!"
             />
             <InfoCard
               destination="https://connect.commandtech.dev"
               heading="Connect your community to tech mentors"
               copy="We provide the framework and mentors for your community so they can work on projects together and learn about the industry from tech mentors!"
+            />
+            <InfoCard
+              destination="/"
+              heading="COMING SOON: Find the perfect speaker, workshop host, judge "
+              copy="We have a network of tech professionals that are enthusiastic about helping the next generation of female and nonbinary tech students!"
             />
           </div>
         </section>

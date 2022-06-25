@@ -15,3 +15,8 @@ yarn dev
 ```
 
 Go to http://localhost:3000 to see the website!
+
+
+cool sites
+https://openai.com/api/
+https://www.kodewithklossy.com/apply

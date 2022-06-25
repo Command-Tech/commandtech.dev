@@ -16,6 +16,7 @@ export default function Team() {
           you need here :) Please let us know if you use any information from
           this site!
         </p>
+        <br />
         <h2 className="pt-8 font-semibold subheadline font-montserrat">
           About
         </h2>
@@ -44,7 +45,7 @@ export default function Team() {
             communities without access to computer science classes, our
             mentorship program focuses on uplifting female and non-binary
             students while our events aim to expand the tech community and
-            accessible resources. We have directly impacted more than 200 people
+            accessible resources. We have directly impacted more than 400 people
             in 14+ countries.
           </Description>
         </div>
@@ -58,17 +59,17 @@ export default function Team() {
         </h2>
         <div className="grid grid-cols-2 gap-5 mx-auto md:grid-cols-4">
           <Image src="/logos/square-white.png" width={200} height={200} />
-          <Image src="/logos/square-white.png" width={200} height={200} />
-          <Image src="/logos/square-white.png" width={200} height={200} />
-          <Image src="/logos/square-white.png" width={200} height={200} />
+          <Image src="/logos/square-blue.png" width={200} height={200} />
+          <Image src="/logos/circle-blue.png" width={200} height={200} />
+          <Image src="/logos/circle.png" width={200} height={200} />
         </div>
 
-        <h2 className="pt-16 font-semibold subheadline font-montserrat">
+        {/* <h2 className="pt-16 font-semibold subheadline font-montserrat">
           Photos
         </h2>
         <div>
           <p>yeah photos</p>
-        </div>
+        </div> */}
       </main>
       <Footer />
     </div>
