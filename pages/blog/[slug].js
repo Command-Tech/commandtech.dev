@@ -27,7 +27,7 @@ export default function Post({
           ""
         )}
         <main className="py-8 px-2 md:px-0">
-          <article dangerouslySetInnerHTML={{ __html: marked(content) }}></article>
+          <article className="prose lg:prose-xl dark:prose-invert" dangerouslySetInnerHTML={{ __html: marked(content) }}></article>
         </main>
       </div>
     </div>
