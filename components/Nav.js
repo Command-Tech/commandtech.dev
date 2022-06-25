@@ -4,6 +4,7 @@ import Icon from "supercons";
 import Image from "next/image";
 
 const links = [
+  { label: "Blog", href: "/blog" },
   { label: "About", href: "/about" },
   { label: "Find a Mentor", href: "/connect" },
   { label: "Get Involved", href: "/join" },
@@ -12,8 +13,8 @@ const links = [
 export default function Nav() {
   const { theme, setTheme } = useTheme();
   return (
-    <nav className=" dark:text-white">
-      <ul className="w-screen flex items-center justify-between p-2 md:p-4 sm:p-8 mt-0 w-full md:px-20">
+    <nav className=" dark:text-white w-full">
+      <ul className="flex items-center justify-between p-2 md:p-4 sm:p-8 mt-0 md:px-20">
         <Link href="/" passHref>
           <li className="left-0 cursor-pointer">
             {theme === "dark" ? (
