@@ -6,7 +6,8 @@ image: "/images/placeholder0.webp"
 ---
 
 # Tech Careers: Part 1
-_By [Hana Gabrielle Bidon](https://medium.com/@hanagabrielle/about)_
+_By [Hana Gabrielle Bidon](https://medium.com/@hanagabrielle/about)_ 
+
 Whether you are learning your first programming language or have been coding since you were six years old, tech provides a wide range of career paths to pursue. This article, which is the first one in an eight part series, can cover a small percentage of tech careers and tech-adjacent careers, provides an introduction to some tech careers that combine other interests.  
 
 To kickstart your career in tech, discover the right role for you. This can come in the form of messaging people on LinkedIn who are in a career that you aspire to be in like software engineering. Another way is to read articles like this and search on Google different types of tech careers you can potentially look into.  
